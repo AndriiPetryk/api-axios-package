@@ -1,0 +1,27 @@
+{
+  "name": "api-axios-package",
+  "version": "1.0.0",
+  "description": "Api for working with endpoinds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiPetryk/api-axios-package.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Andrii Petryk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiPetryk/api-axios-package/issues"
+  },
+  "homepage": "https://github.com/AndriiPetryk/api-axios-package#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "lodash": "^4.17.21",
+    "qs": "^6.10.3"
+  }
+}
